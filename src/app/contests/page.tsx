@@ -83,6 +83,94 @@ export default function Contests() {
                         <div className="container">
                             <div className="right-half">
                                     <div className="list2">
+                                        <a className="contest" href="https://codeforces.com/group/eScIVDG1u2/contest/636212" target="_blank" rel="noopener noreferrer">
+                                            <div className="flex" style={{ alignItems: "center" }}>
+                                                <div style={{ textAlign: 'center' }} className="flex flex-1 flex-col">
+                                                    <b>Junior Dev. 1 Year Anniversary Day 2 (2025)</b>
+                                                    23/Sep/2025 18:00 - 24/Sep/2025 00:00
+                                                </div>
+                                                <div>
+                                                    <img className="platform" src="/codeforces.webp" alt="Codeforces" />
+                                                </div>
+                                            </div>
+                                        </a>
+                                        <a className="contest" href="https://codeforces.com/group/eScIVDG1u2/contest/601593" target="_blank" rel="noopener noreferrer">
+                                            <div className="flex" style={{ alignItems: "center" }}>
+                                                <div style={{ textAlign: 'center' }} className="flex flex-1 flex-col">
+                                                    <b>Junior Dev. 1 Year Anniversary Day 1 (2025)</b>
+                                                    22/Sep/2025 18:00 - 23/Sep/2025 00:00
+                                                </div>
+                                                <div>
+                                                    <img className="platform" src="/codeforces.webp" alt="Codeforces" />
+                                                </div>
+                                            </div>
+                                        </a>
+                                        <a className="contest" href="https://codeforces.com/group/eScIVDG1u2/contest/594469" target="_blank" rel="noopener noreferrer">
+                                            <div className="flex" style={{ alignItems: "center" }}>
+                                                <div style={{ textAlign: 'center' }} className="flex flex-1 flex-col">
+                                                    <b>PreTOI21 Day 2 (2025)</b>
+                                                    04/May/2025 19:00 - 05/May/2025 00:00
+                                                </div>
+                                                <div>
+                                                    <img className="platform" src="/codeforces.webp" alt="Codeforces" />
+                                                </div>
+                                            </div>
+                                        </a>
+                                        <a className="contest" href="https://codeforces.com/group/eScIVDG1u2/contest/594466" target="_blank" rel="noopener noreferrer">
+                                            <div className="flex" style={{ alignItems: "center" }}>
+                                                <div style={{ textAlign: 'center' }} className="flex flex-1 flex-col">
+                                                    <b>PreTOI21 Day 1 (2025)</b>
+                                                    03/May/2025 19:00 - 04/May/2025 00:00
+                                                </div>
+                                                <div>
+                                                    <img className="platform" src="/codeforces.webp" alt="Codeforces" />
+                                                </div>
+                                            </div>
+                                        </a>
+                                        <a className="contest" href="https://codeforces.com/group/eScIVDG1u2/contest/601601" target="_blank" rel="noopener noreferrer">
+                                            <div className="flex" style={{ alignItems: "center" }}>
+                                                <div style={{ textAlign: 'center' }} className="flex flex-1 flex-col">
+                                                    <b>Junior Dev Songkran Contest Day 3 (2025)</b>
+                                                    15/Apr/2025 18:00 - 16/Apr/2025 00:00
+                                                </div>
+                                                <div>
+                                                    <img className="platform" src="/codeforces.webp" alt="Codeforces" />
+                                                </div>
+                                            </div>
+                                        </a>
+                                        <a className="contest" href="https://codeforces.com/group/eScIVDG1u2/contest/601600" target="_blank" rel="noopener noreferrer">
+                                            <div className="flex" style={{ alignItems: "center" }}>
+                                                <div style={{ textAlign: 'center' }} className="flex flex-1 flex-col">
+                                                    <b>Junior Dev Songkran Contest Day 2 (2025)</b>
+                                                    14/Apr/2025 18:00 - 23:00
+                                                </div>
+                                                <div>
+                                                    <img className="platform" src="/codeforces.webp" alt="Codeforces" />
+                                                </div>
+                                            </div>
+                                        </a>
+                                        <a className="contest" href="https://codeforces.com/group/eScIVDG1u2/contest/589719" target="_blank" rel="noopener noreferrer">
+                                            <div className="flex" style={{ alignItems: "center" }}>
+                                                <div style={{ textAlign: 'center' }} className="flex flex-1 flex-col">
+                                                    <b>Junior Dev Songkran Contest Day 1 (2025)</b>
+                                                    13/Apr/2025 18:00 - 22:00
+                                                </div>
+                                                <div>
+                                                    <img className="platform" src="/codeforces.webp" alt="Codeforces" />
+                                                </div>
+                                            </div>
+                                        </a>
+                                        <a className="contest" href="https://codeforces.com/group/eScIVDG1u2/contest/579287" target="_blank" rel="noopener noreferrer">
+                                            <div className="flex" style={{ alignItems: "center" }}>
+                                                <div style={{ textAlign: 'center' }} className="flex flex-1 flex-col">
+                                                    <b>April Fools Day Contest (2025)</b>
+                                                    01/Apr/2025 00:00 - 02/Apr/2025 00:00
+                                                </div>
+                                                <div>
+                                                    <img className="platform" src="/codeforces.webp" alt="Codeforces" />
+                                                </div>
+                                            </div>
+                                        </a>
                                         <a className="contest" href="https://codeforces.com/group/eScIVDG1u2/contest/591792" target="_blank" rel="noopener noreferrer">
                                             <div className="flex" style={{ alignItems: "center" }}>
                                                 <div style={{ textAlign: 'center' }} className="flex flex-1 flex-col">
