@@ -94,6 +94,7 @@ export default function Contests() {
                                                 </div>
                                             </div>
                                         </a>
+                                        <br />
                                         <a className="contest" href="https://codeforces.com/group/eScIVDG1u2/contest/601593" target="_blank" rel="noopener noreferrer">
                                             <div className="flex" style={{ alignItems: "center" }}>
                                                 <div style={{ textAlign: 'center' }} className="flex flex-1 flex-col">
@@ -105,6 +106,7 @@ export default function Contests() {
                                                 </div>
                                             </div>
                                         </a>
+                                        <br />
                                         <a className="contest" href="https://codeforces.com/group/eScIVDG1u2/contest/594469" target="_blank" rel="noopener noreferrer">
                                             <div className="flex" style={{ alignItems: "center" }}>
                                                 <div style={{ textAlign: 'center' }} className="flex flex-1 flex-col">
@@ -116,6 +118,7 @@ export default function Contests() {
                                                 </div>
                                             </div>
                                         </a>
+                                        <br />
                                         <a className="contest" href="https://codeforces.com/group/eScIVDG1u2/contest/594466" target="_blank" rel="noopener noreferrer">
                                             <div className="flex" style={{ alignItems: "center" }}>
                                                 <div style={{ textAlign: 'center' }} className="flex flex-1 flex-col">
@@ -127,6 +130,7 @@ export default function Contests() {
                                                 </div>
                                             </div>
                                         </a>
+                                        <br />
                                         <a className="contest" href="https://codeforces.com/group/eScIVDG1u2/contest/601601" target="_blank" rel="noopener noreferrer">
                                             <div className="flex" style={{ alignItems: "center" }}>
                                                 <div style={{ textAlign: 'center' }} className="flex flex-1 flex-col">
@@ -138,6 +142,7 @@ export default function Contests() {
                                                 </div>
                                             </div>
                                         </a>
+                                        <br />
                                         <a className="contest" href="https://codeforces.com/group/eScIVDG1u2/contest/601600" target="_blank" rel="noopener noreferrer">
                                             <div className="flex" style={{ alignItems: "center" }}>
                                                 <div style={{ textAlign: 'center' }} className="flex flex-1 flex-col">
@@ -149,6 +154,7 @@ export default function Contests() {
                                                 </div>
                                             </div>
                                         </a>
+                                        <br />
                                         <a className="contest" href="https://codeforces.com/group/eScIVDG1u2/contest/589719" target="_blank" rel="noopener noreferrer">
                                             <div className="flex" style={{ alignItems: "center" }}>
                                                 <div style={{ textAlign: 'center' }} className="flex flex-1 flex-col">
@@ -160,6 +166,7 @@ export default function Contests() {
                                                 </div>
                                             </div>
                                         </a>
+                                        <br />
                                         <a className="contest" href="https://codeforces.com/group/eScIVDG1u2/contest/579287" target="_blank" rel="noopener noreferrer">
                                             <div className="flex" style={{ alignItems: "center" }}>
                                                 <div style={{ textAlign: 'center' }} className="flex flex-1 flex-col">
@@ -171,6 +178,7 @@ export default function Contests() {
                                                 </div>
                                             </div>
                                         </a>
+                                        <br />
                                         <a className="contest" href="https://codeforces.com/group/eScIVDG1u2/contest/591792" target="_blank" rel="noopener noreferrer">
                                             <div className="flex" style={{ alignItems: "center" }}>
                                                 <div style={{ textAlign: 'center' }} className="flex flex-1 flex-col">
@@ -182,6 +190,7 @@ export default function Contests() {
                                                 </div>
                                             </div>
                                         </a>
+                                        <br />
                                         <a className="contest" href="https://codeforces.com/group/eScIVDG1u2/contest/591788" target="_blank" rel="noopener noreferrer">
                                             <div className="flex" style={{ alignItems: "center" }}>
                                                 <div style={{ textAlign: 'center' }} className="flex flex-1 flex-col">
@@ -193,6 +202,7 @@ export default function Contests() {
                                                 </div>
                                             </div>
                                         </a>
+                                        <br />
                                         <a className="contest" href="https://codeforces.com/group/eScIVDG1u2/contest/577918" target="_blank" rel="noopener noreferrer">
                                             <div className="flex" style={{ alignItems: "center" }}>
                                                 <div style={{ textAlign: 'center' }} className="flex flex-1 flex-col">
